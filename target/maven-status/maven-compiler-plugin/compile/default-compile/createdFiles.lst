@@ -1,0 +1,5 @@
+com\adcorreajr\SpringSecurityX589Atuth\SpringSecurityX589AuthApplication.class
+com\adcorreajr\SpringSecurityX589Atuth\ServletInitializer.class
+com\adcorreajr\SpringSecurityX589Atuth\configuration\SpringSecurityConfiguration.class
+com\adcorreajr\SpringSecurityX589Atuth\controller\UserController.class
+com\adcorreajr\SpringSecurityX589Atuth\domain\User.class
